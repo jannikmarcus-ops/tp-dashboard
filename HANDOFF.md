@@ -1,4 +1,4 @@
-# HANDOFF: teigeler-dashboard
+# HANDOFF: tp-dashboard
 _Stand: 20.10.2026 00:20_
 
 ## Ziel
@@ -96,7 +96,7 @@ Kein offener Arbeitsstrang. Der Rollen-Filter ist umgesetzt, gepusht und live ve
 ## Wiedereinstieg-Cheatsheet
 ```bash
 # Projekt
-cd ~/Projects/teigeler-dashboard
+cd ~/Projects/tp-dashboard
 
 # lokal ohne Login starten, mit ECHTEN Notion-Daten (Port 3004)
 DASHBOARD_PASSWORD= npm run dev

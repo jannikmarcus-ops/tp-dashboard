@@ -16,7 +16,7 @@ brew install node
 ### 2. Dependencies installieren
 
 ```bash
-cd teigeler-dashboard
+cd tp-dashboard
 npm install
 ```
 
